@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+   <img width="120" height="28"  src="https://tse2.mm.bing.net/th?id=OIP.csWCtvv-ln1Y-EjFgOmregHaCe&pid=Api&P=0" /> 
+  <img width="120" height="28"  src="https://css-tricks.com/wp-content/uploads/2019/10/redux-logo.png" />
 </p>
 
 <h3 align="left">Tools:</h3>
