@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/alok-kumar-verma-2b4b43158/" target="blank"><img align="center" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="alok kumar verma" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/ALOK6103" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.c-7me3f5rDfyn09FEOfxJgHaD4&pid=Api&P=0" alt="alok6103" height="30" width="40" /></a>
 <a href="https://www.facebook.com/alok.verma.96/" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.Ua5AXhtGRgPuisZVmetclQHaFL&pid=Api&rs=1&c=1&qlt=95&w=150&h=105" alt="alok verma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alok_mcaet" target="blank"><img align="center" src="https://tse3.mm.bing.net/th?id=OIP.oDIYEmgWFB5ss3_x8fRc8AHaHa&pid=Api&P=0" alt="@alok_mcaet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming languages:</h3>
