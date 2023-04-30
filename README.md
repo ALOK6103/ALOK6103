@@ -40,13 +40,13 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-   <img width="120" height="28"  src="https://tse2.mm.bing.net/th?id=OIP.csWCtvv-ln1Y-EjFgOmregHaCe&pid=Api&P=0" /> 
+  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img width="120" height="28"  src="https://css-tricks.com/wp-content/uploads/2019/10/redux-logo.png" />
 </p>
 
 <h3 align="left">Tools:</h3>
 <p>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
